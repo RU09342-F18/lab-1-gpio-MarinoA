@@ -9,4 +9,5 @@ main.c
 README.txt
 Also required: msp430.h
 ###############################################
-description 
+This program blinks two LEDs on the development board with two different frequencies. It uses an infinite while loop
+CONTINUE FROM HERE
