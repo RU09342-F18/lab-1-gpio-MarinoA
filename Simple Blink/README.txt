@@ -13,6 +13,6 @@ This program makes a single LED on the development board flash on and off.
 It uses an infinite for loop which contains a decrementing do-while statement 
 which implements a delay. After this countdown reaches zero, the XOR statement 
 toggles the state of the LED from off to on or on to off, depending on the previous state. 
+All code for this program comes from the TI example. 
 
-
-
+The MSP430G2553 and MSP430F5529 both use pin 1.0 for their LED. 
