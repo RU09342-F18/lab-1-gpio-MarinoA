@@ -9,7 +9,10 @@ main.c
 README.txt
 Also required: msp430.h
 ###############################################
-This program makes a single LED on the development board flash on and off. It uses an infinite for loop which contains a decrementing do-while statement which implements a delay. After this countdown reaches zero, the XOR statement toggles the state of the LED from off to on or on to off, depending on the previous state. 
+This program makes a single LED on the development board flash on and off. 
+It uses an infinite for loop which contains a decrementing do-while statement 
+which implements a delay. After this countdown reaches zero, the XOR statement 
+toggles the state of the LED from off to on or on to off, depending on the previous state. 
 
 
 
